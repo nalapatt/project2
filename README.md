@@ -24,5 +24,6 @@
 23.	Create a pull request
 
 To be done from the SimplilearnGithubTraining account – by me after wards.
+
 24.	Accept the pull request and merge the changes to main repo.
 25.	Your main repo should reflect the changes.
