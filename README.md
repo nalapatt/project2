@@ -1,5 +1,4 @@
 # Project2
-
 1.	Project Abc is created by SimplilearnGithubTraining account 
 2.	Fork the project
 3.	Pull the project to Git 
@@ -23,5 +22,7 @@
 21.	Now merge the changes of your develop branch to your master branch using rebase
 22.	Push all the changes to remote repo including branches
 23.	Create a pull request
+
+To be done from the SimplilearnGithubTraining account – by me after wards.
 24.	Accept the pull request and merge the changes to main repo.
 25.	Your main repo should reflect the changes.
